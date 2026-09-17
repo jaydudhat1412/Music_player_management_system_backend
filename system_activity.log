@@ -1,0 +1,432 @@
+
+[2026-07-09 21:57:09] [ERROR] System startup database check failed: Could not connect to the database. Error: Access denied for user 'root'@'localhost' (using password: YES)
+[2026-07-09 21:57:09] [INFO] Music Player Application Started.
+[2026-07-09 23:33:00] [ERROR] System startup database check failed: Could not connect to the database. Error: Unknown database 'music_player_db'
+[2026-07-09 23:33:00] [INFO] Music Player Application Started.
+[2026-07-09 23:34:47] [INFO] System initialized and connected to database.
+[2026-07-09 23:34:47] [INFO] Music Player Application Started.
+[2026-07-09 23:35:31] [ERROR] Registration failed for jay: Unknown column 'name' in 'field list'
+[2026-07-10 00:58:34] [INFO] System initialized and connected to database.
+[2026-07-10 00:58:34] [INFO] Music Player Application Started.
+[2026-07-10 00:58:53] [WARNING] Failed login attempt for username: jay
+[2026-07-10 00:59:42] [ERROR] Registration failed for jay: Unknown column 'name' in 'field list'
+[2026-07-10 14:09:39] [INFO] System initialized and connected to database.
+[2026-07-10 14:09:39] [INFO] Music Player Application Started.
+[2026-07-10 14:11:30] [ERROR] Registration failed for jay: Unknown column 'name' in 'field list'
+[2026-07-10 14:12:14] [ERROR] Registration failed for jay: Unknown column 'name' in 'field list'
+[2026-07-10 19:10:17] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-10 19:10:17] [INFO] Music Player Application Started.
+[2026-07-10 19:11:40] [INFO] System initialized and connected to database.
+[2026-07-10 19:11:40] [INFO] Music Player Application Started.
+[2026-07-10 19:12:21] [ERROR] Registration failed for jay: Unknown column 'name' in 'field list'
+[2026-07-11 15:30:51] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-11 15:30:51] [INFO] Music Player Application Started.
+[2026-07-11 15:31:08] [INFO] System initialized and connected to database.
+[2026-07-11 15:31:08] [INFO] Music Player Application Started.
+[2026-07-11 15:31:45] [ERROR] Registration failed for jay: Unknown column 'name' in 'field list'
+[2026-07-12 00:19:27] [INFO] System initialized and connected to database.
+[2026-07-12 00:19:27] [INFO] Music Player Application Started.
+[2026-07-12 00:19:27] [INFO] Registered new user: testuser
+[2026-07-12 00:19:27] [INFO] Successful login: testuser
+[2026-07-12 00:32:46] [INFO] System initialized and connected to database.
+[2026-07-12 00:32:46] [INFO] Music Player Application Started.
+[2026-07-12 00:45:16] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-12 00:45:16] [INFO] Music Player Application Started.
+[2026-07-12 00:48:26] [INFO] System initialized and connected to database.
+[2026-07-12 00:48:26] [INFO] Music Player Application Started.
+[2026-07-12 01:02:52] [INFO] Asynchronously started play simulation for song ID: 5
+[2026-07-12 14:28:29] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-12 14:28:29] [INFO] Music Player Application Started.
+[2026-07-12 14:29:49] [INFO] System initialized and connected to database.
+[2026-07-12 14:29:49] [INFO] Music Player Application Started.
+[2026-07-12 14:32:15] [INFO] Asynchronously started play simulation for song ID: 3
+[2026-07-13 14:22:50] [INFO] System initialized and connected to database.
+[2026-07-13 14:22:51] [INFO] Music Player Application Started.
+[2026-07-13 14:27:04] [INFO] System initialized and connected to database.
+[2026-07-13 14:27:04] [INFO] Music Player Application Started.
+[2026-07-13 14:28:28] [INFO] Asynchronously started play simulation for song ID: 5
+[2026-07-13 14:42:19] [INFO] System initialized and connected to database.
+[2026-07-13 14:42:19] [INFO] Music Player Application Started.
+[2026-07-13 14:50:34] [INFO] System initialized and connected to database.
+[2026-07-13 14:50:34] [INFO] Music Player Application Started.
+[2026-07-13 14:51:22] [INFO] Asynchronously started play simulation for song ID: 5
+[2026-07-13 16:12:26] [INFO] System initialized and connected to database.
+[2026-07-13 16:12:26] [INFO] Music Player Application Started.
+[2026-07-13 16:29:21] [INFO] Asynchronously started play simulation for song ID: 8
+[2026-07-13 21:04:03] [INFO] System initialized and connected to database.
+[2026-07-13 21:04:03] [INFO] Music Player Application Started.
+[2026-07-13 21:05:01] [INFO] System initialized and connected to database.
+[2026-07-13 21:05:01] [INFO] Music Player Application Started.
+[2026-07-13 21:07:56] [INFO] Asynchronously started play simulation for song ID: 1
+[2026-07-13 21:08:26] [INFO] Asynchronously started play simulation for song ID: 1
+[2026-07-13 23:36:20] [INFO] System initialized and connected to database.
+[2026-07-13 23:36:20] [INFO] Music Player Application Started.
+[2026-07-13 23:38:02] [INFO] Asynchronously started play simulation for song ID: 5
+[2026-07-14 15:17:10] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-14 15:17:10] [INFO] Music Player Application Started.
+[2026-07-14 15:19:22] [INFO] System initialized and connected to database.
+[2026-07-14 15:19:22] [INFO] Music Player Application Started.
+[2026-07-14 23:55:08] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-14 23:55:08] [INFO] Music Player Application Started.
+[2026-07-15 00:42:09] [INFO] System initialized and connected to database.
+[2026-07-15 00:42:09] [INFO] Music Player Application Started.
+[2026-07-15 00:43:29] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-15 00:43:29] [INFO] Music Player Application Started.
+[2026-07-15 00:44:23] [INFO] System initialized and connected to database.
+[2026-07-15 00:44:23] [INFO] Music Player Application Started.
+[2026-07-15 00:44:31] [INFO] System initialized and connected to database.
+[2026-07-15 00:44:31] [INFO] Music Player Application Started.
+[2026-07-15 00:44:42] [INFO] System initialized and connected to database.
+[2026-07-15 00:44:42] [INFO] Music Player Application Started.
+[2026-07-15 14:35:55] [INFO] System initialized and connected to database.
+[2026-07-15 14:35:55] [INFO] Music Player Application Started.
+[2026-07-15 14:43:57] [INFO] System initialized and connected to database.
+[2026-07-15 14:43:57] [INFO] Music Player Application Started.
+[2026-07-15 15:04:37] [INFO] System initialized and connected to database.
+[2026-07-15 15:04:37] [INFO] Music Player Application Started.
+[2026-07-15 15:05:59] [INFO] System initialized and connected to database.
+[2026-07-15 15:05:59] [INFO] Music Player Application Started.
+[2026-07-15 15:09:40] [INFO] Asynchronously started play simulation for song ID: 5
+[2026-07-15 23:56:48] [ERROR] System startup database check failed: Could not connect to the database. Error: com.mysql.cj.jdbc.Driver
+[2026-07-15 23:56:48] [INFO] Music Player Application Started.
+[2026-07-16 00:38:46] [INFO] System initialized and connected to database.
+[2026-07-16 00:38:46] [INFO] Music Player Application Started.
+[2026-07-16 02:46:17] [INFO] System initialized and connected to database.
+[2026-07-16 02:46:17] [INFO] Music Player Application Started.
+[2026-07-16 02:50:34] [INFO] Asynchronously started play simulation for song ID: 5
+[2026-07-16 19:04:37] [INFO] System initialized and connected to database.
+[2026-07-16 19:04:37] [INFO] Music Player Application Started.
+[2026-07-16 19:14:52] [INFO] System initialized and connected to database.
+[2026-07-16 19:14:52] [INFO] Music Player Application Started.
+[2026-07-16 19:15:47] [INFO] System initialized and connected to database.
+[2026-07-16 19:15:47] [INFO] Music Player Application Started.
+[2026-07-16 19:15:52] [INFO] System initialized and connected to database.
+[2026-07-16 19:15:52] [INFO] Music Player Application Started.
+[2026-07-16 19:16:16] [INFO] System initialized and connected to database.
+[2026-07-16 19:16:16] [INFO] Music Player Application Started.
+[2026-07-16 19:30:11] [INFO] System initialized and connected to database.
+[2026-07-16 19:30:11] [INFO] Music Player Application Started.
+[2026-07-16 19:31:27] [INFO] Asynchronously started play simulation for song ID: 4
+[2026-07-16 20:20:08] [INFO] System initialized and connected to database.
+[2026-07-16 20:20:08] [INFO] Music Player Application Started.
+[2026-07-16 21:02:20] [INFO] Asynchronously started play simulation for song ID: 5
+[2026-07-16 21:04:34] [INFO] Asynchronously started play simulation for song ID: 3
+[2026-07-17 14:53:37] [INFO] System initialized and connected to database.
+[2026-07-17 14:53:37] [INFO] Music Player Application Started.
+[2026-07-17 14:54:07] [INFO] System initialized and connected to database.
+[2026-07-17 14:54:07] [INFO] Music Player Application Started.
+[2026-07-17 14:58:53] [INFO] Asynchronously started play simulation for song ID: 2
+[2026-07-17 15:09:50] [INFO] System initialized and connected to database.
+[2026-07-17 15:09:50] [INFO] Music Player Application Started.
+[2026-07-18 00:27:01] [INFO] System initialized and connected to database.
+[2026-07-18 00:27:01] [INFO] Music Player Application Started.
+[2026-07-18 00:35:01] [INFO] System initialized and connected to database.
+[2026-07-18 00:35:01] [INFO] Music Player Application Started.
+[2026-07-18 00:38:04] [INFO] System initialized and connected to database.
+[2026-07-18 00:38:04] [INFO] Music Player Application Started.
+[2026-07-18 00:43:03] [INFO] System initialized and connected to database.
+[2026-07-18 00:43:03] [INFO] Music Player Application Started.
+[2026-07-18 00:43:09] [INFO] System initialized and connected to database.
+[2026-07-18 00:43:09] [INFO] Music Player Application Started.
+[2026-07-18 17:21:29] [INFO] System initialized and connected to database.
+[2026-07-18 17:21:29] [INFO] Music Player Application Started.
+[2026-07-18 17:35:58] [INFO] System initialized and connected to database.
+[2026-07-18 17:35:58] [INFO] Music Player Application Started.
+[2026-07-18 17:43:37] [INFO] System initialized and connected to database.
+[2026-07-18 17:43:37] [INFO] Music Player Application Started.
+[2026-07-18 17:47:31] [INFO] System initialized and connected to database.
+[2026-07-18 17:47:31] [INFO] Music Player Application Started.
+[2026-07-18 17:52:00] [INFO] System initialized and connected to database.
+[2026-07-18 17:52:00] [INFO] Music Player Application Started.
+[2026-07-18 18:00:51] [INFO] System initialized and connected to database.
+[2026-07-18 18:00:51] [INFO] Music Player Application Started.
+[2026-07-18 18:11:54] [INFO] System initialized and connected to database.
+[2026-07-18 18:11:54] [INFO] Music Player Application Started.
+[2026-07-18 23:19:16] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-18 23:19:16] [INFO] Music Player Application Started.
+[2026-07-18 23:20:34] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-18 23:20:34] [INFO] Music Player Application Started.
+[2026-07-18 23:21:24] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-18 23:21:24] [INFO] Music Player Application Started.
+[2026-07-18 23:21:39] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-18 23:21:39] [INFO] Music Player Application Started.
+[2026-07-18 23:25:39] [INFO] Asynchronously started play simulation for song ID: 5
+[2026-07-18 23:28:28] [INFO] Asynchronously started play simulation for song ID: 10
+[2026-07-18 23:28:37] [INFO] Asynchronously started play simulation for song ID: 2
+[2026-07-23 21:28:27] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-23 21:28:28] [INFO] Music Player Application Started.
+[2026-07-23 21:28:43] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-23 21:28:43] [INFO] Music Player Application Started.
+[2026-07-23 21:31:51] [INFO] System initialized and connected to database.
+[2026-07-23 21:31:51] [INFO] Music Player Application Started.
+[2026-07-23 21:33:02] [INFO] Recorded song play via CallableStatement for song ID: 4. New Play Count: 37
+[2026-07-24 23:13:35] [INFO] System initialized and connected to database.
+[2026-07-24 23:13:35] [INFO] Music Player Application Started.
+[2026-07-24 23:13:56] [INFO] Recorded song play via CallableStatement for song ID: 1. New Play Count: 18
+[2026-07-26 01:21:15] [INFO] System initialized and connected to database.
+[2026-07-26 01:21:15] [INFO] Music Player Application Started.
+[2026-07-26 01:21:39] [INFO] System initialized and connected to database.
+[2026-07-26 01:21:39] [INFO] Music Player Application Started.
+[2026-07-26 12:42:53] [INFO] System initialized and connected to database.
+[2026-07-26 12:42:53] [INFO] Music Player Application Started.
+[2026-07-26 14:04:47] [INFO] System initialized and connected to database.
+[2026-07-26 14:04:47] [INFO] Music Player Application Started.
+[2026-07-26 14:07:11] [INFO] System initialized and connected to database.
+[2026-07-26 14:07:11] [INFO] Music Player Application Started.
+[2026-07-26 14:11:11] [INFO] System initialized and connected to database.
+[2026-07-26 14:11:11] [INFO] Music Player Application Started.
+[2026-07-30 21:30:43] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-07-30 21:30:43] [INFO] Music Player Application Started.
+[2026-07-30 21:33:22] [INFO] System initialized and connected to database.
+[2026-07-30 21:33:22] [INFO] Music Player Application Started.
+[2026-07-30 22:47:21] [INFO] System initialized and connected to database.
+[2026-07-30 22:47:21] [INFO] Music Player Application Started.
+[2026-07-30 22:52:02] [INFO] System initialized and connected to database.
+[2026-07-30 22:52:02] [INFO] Music Player Application Started.
+[2026-07-30 22:53:31] [INFO] System initialized and connected to database.
+[2026-07-30 22:53:31] [INFO] Music Player Application Started.
+[2026-07-31 00:24:05] [INFO] System initialized and connected to database.
+[2026-07-31 00:24:05] [INFO] Music Player Application Started.
+[2026-07-31 00:28:26] [INFO] System initialized and connected to database.
+[2026-07-31 00:28:26] [INFO] Music Player Application Started.
+[2026-07-31 00:30:31] [INFO] System initialized and connected to database.
+[2026-07-31 00:30:31] [INFO] Music Player Application Started.
+[2026-07-31 00:35:43] [INFO] System initialized and connected to database.
+[2026-07-31 00:35:43] [INFO] Music Player Application Started.
+[2026-07-31 00:39:27] [INFO] System initialized and connected to database.
+[2026-07-31 00:39:27] [INFO] Music Player Application Started.
+[2026-07-31 00:41:58] [INFO] System initialized and connected to database.
+[2026-07-31 00:41:58] [INFO] Music Player Application Started.
+[2026-07-31 00:44:46] [INFO] System initialized and connected to database.
+[2026-07-31 00:44:46] [INFO] Music Player Application Started.
+[2026-07-31 00:50:33] [INFO] System initialized and connected to database.
+[2026-07-31 00:50:33] [INFO] Music Player Application Started.
+[2026-07-31 00:54:19] [INFO] System initialized and connected to database.
+[2026-07-31 00:54:19] [INFO] Music Player Application Started.
+[2026-07-31 01:08:38] [INFO] Recorded song play via CallableStatement for song ID: 11. New Play Count: 1
+[2026-07-31 01:10:59] [INFO] Recorded song play via CallableStatement for song ID: 3. New Play Count: 1
+[2026-07-31 01:12:14] [INFO] Recorded song play via CallableStatement for song ID: 50. New Play Count: 1
+[2026-08-06 20:53:24] [ERROR] System startup database check failed: Could not connect to the database. Error: com.mysql.cj.jdbc.Driver
+[2026-08-06 20:53:25] [INFO] Music Player Application Started.
+[2026-08-06 20:54:33] [ERROR] System startup database check failed: Could not connect to the database. Error: com.mysql.cj.jdbc.Driver
+[2026-08-06 20:54:34] [INFO] Music Player Application Started.
+[2026-08-06 20:58:45] [INFO] System initialized and connected to database.
+[2026-08-06 20:58:45] [INFO] Music Player Application Started.
+[2026-08-06 21:05:17] [INFO] System initialized and connected to database.
+[2026-08-06 21:05:17] [INFO] Music Player Application Started.
+[2026-08-06 21:06:02] [INFO] Recorded song play via CallableStatement for song ID: 60. New Play Count: 1
+[2026-08-06 21:50:59] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-08-06 21:51:00] [INFO] Music Player Application Started.
+[2026-08-06 21:56:39] [INFO] System initialized and connected to database.
+[2026-08-06 21:56:39] [INFO] Music Player Application Started.
+[2026-08-06 21:57:03] [INFO] Recorded song play via CallableStatement for song ID: 1. New Play Count: 1
+[2026-08-06 21:57:32] [INFO] Recorded song play via CallableStatement for song ID: 2. New Play Count: 1
+[2026-08-06 21:58:00] [INFO] Recorded song play via CallableStatement for song ID: 19. New Play Count: 1
+[2026-08-06 22:11:48] [INFO] System initialized and connected to database.
+[2026-08-06 22:11:49] [INFO] Music Player Application Started.
+[2026-08-06 22:12:23] [INFO] Recorded song play via CallableStatement for song ID: 3. New Play Count: 2
+[2026-08-06 22:25:30] [INFO] System initialized and connected to database.
+[2026-08-06 22:25:30] [INFO] Music Player Application Started.
+[2026-08-06 22:26:40] [INFO] System initialized and connected to database.
+[2026-08-06 22:26:40] [INFO] Music Player Application Started.
+[2026-08-06 22:30:39] [INFO] Recorded song play via CallableStatement for song ID: 1. New Play Count: 2
+[2026-08-06 22:31:33] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 1
+[2026-08-06 22:45:45] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 2
+[2026-08-06 22:46:45] [INFO] Recorded song play via CallableStatement for song ID: 1. New Play Count: 3
+[2026-08-06 22:46:57] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 3
+[2026-08-06 22:50:48] [INFO] System initialized and connected to database.
+[2026-08-06 22:50:48] [INFO] Music Player Application Started.
+[2026-08-06 22:56:02] [INFO] System initialized and connected to database.
+[2026-08-06 22:56:02] [INFO] Music Player Application Started.
+[2026-08-06 23:11:47] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 1
+[2026-08-06 23:55:01] [INFO] System initialized and connected to database.
+[2026-08-06 23:55:01] [INFO] Music Player Application Started.
+[2026-08-06 23:55:32] [INFO] Recorded song play via CallableStatement for song ID: 78. New Play Count: 1
+[2026-08-07 00:41:28] [INFO] System initialized and connected to database.
+[2026-08-07 00:41:28] [INFO] Music Player Application Started.
+[2026-08-07 00:41:57] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 2
+[2026-08-07 01:05:11] [INFO] System initialized and connected to database.
+[2026-08-07 01:05:12] [INFO] Music Player Application Started.
+[2026-08-07 01:05:33] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 3
+[2026-08-07 01:06:43] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 4
+[2026-08-07 01:14:27] [INFO] System initialized and connected to database.
+[2026-08-07 01:14:28] [INFO] Music Player Application Started.
+[2026-08-07 01:14:44] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 5
+[2026-08-07 01:15:11] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 4
+[2026-08-07 01:16:48] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 5
+[2026-08-07 01:20:53] [INFO] System initialized and connected to database.
+[2026-08-07 01:20:53] [INFO] Music Player Application Started.
+[2026-08-07 01:21:12] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 6
+[2026-08-07 01:22:39] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 6
+[2026-08-07 10:16:08] [INFO] System initialized and connected to database.
+[2026-08-07 10:16:09] [INFO] Music Player Application Started.
+[2026-08-07 10:16:37] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 7
+[2026-08-07 10:42:40] [INFO] System initialized and connected to database.
+[2026-08-07 10:42:41] [INFO] Music Player Application Started.
+[2026-08-07 10:43:47] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 8
+[2026-08-07 10:45:23] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 9
+[2026-08-07 10:45:45] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 10
+[2026-08-07 19:11:02] [INFO] System initialized and connected to database.
+[2026-08-07 19:11:03] [INFO] Music Player Application Started.
+[2026-08-07 19:11:07] [INFO] System initialized and connected to database.
+[2026-08-07 19:11:07] [INFO] Music Player Application Started.
+[2026-08-07 19:26:22] [INFO] System initialized and connected to database.
+[2026-08-07 19:26:22] [INFO] Music Player Application Started.
+[2026-08-07 19:26:24] [INFO] System initialized and connected to database.
+[2026-08-07 19:26:25] [INFO] Music Player Application Started.
+[2026-08-07 19:26:28] [INFO] System initialized and connected to database.
+[2026-08-07 19:26:29] [INFO] Music Player Application Started.
+[2026-08-07 19:26:33] [INFO] System initialized and connected to database.
+[2026-08-07 19:26:34] [INFO] Music Player Application Started.
+[2026-08-07 19:26:48] [INFO] System initialized and connected to database.
+[2026-08-07 19:26:49] [INFO] Music Player Application Started.
+[2026-08-07 19:27:21] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 7
+[2026-08-07 19:28:26] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 11
+[2026-08-07 19:31:02] [INFO] System initialized and connected to database.
+[2026-08-07 19:31:03] [INFO] Music Player Application Started.
+[2026-08-07 19:31:21] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 8
+[2026-08-07 19:32:25] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 12
+[2026-08-07 19:49:21] [INFO] System initialized and connected to database.
+[2026-08-07 19:49:21] [INFO] Music Player Application Started.
+[2026-08-07 19:51:37] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 13
+[2026-08-07 20:24:17] [INFO] System initialized and connected to database.
+[2026-08-07 20:24:18] [INFO] Music Player Application Started.
+[2026-08-07 20:25:05] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 14
+[2026-08-07 20:29:37] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 15
+[2026-08-07 20:33:10] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 16
+[2026-08-07 20:44:50] [INFO] System initialized and connected to database.
+[2026-08-07 20:44:51] [INFO] Music Player Application Started.
+[2026-08-07 20:51:44] [ERROR] Failed to record song play via CallableStatement: Error executing stored procedure sp_record_song_play
+[2026-08-07 21:07:26] [INFO] System initialized and connected to database.
+[2026-08-07 21:07:26] [INFO] Music Player Application Started.
+[2026-08-07 21:08:06] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 17
+[2026-08-07 21:26:51] [INFO] System initialized and connected to database.
+[2026-08-07 21:26:51] [INFO] Music Player Application Started.
+[2026-08-07 21:27:15] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 18
+[2026-08-07 21:28:14] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 19
+[2026-08-07 21:28:57] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 20
+[2026-08-07 21:33:06] [INFO] System initialized and connected to database.
+[2026-08-07 21:33:06] [INFO] Music Player Application Started.
+[2026-08-07 21:37:34] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 21
+[2026-08-07 21:43:58] [INFO] System initialized and connected to database.
+[2026-08-07 21:43:58] [INFO] Music Player Application Started.
+[2026-08-07 21:45:43] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 22
+[2026-08-07 21:52:10] [INFO] System initialized and connected to database.
+[2026-08-07 21:52:10] [INFO] Music Player Application Started.
+[2026-08-07 21:52:42] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 10
+[2026-08-07 21:56:05] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 11
+[2026-08-07 21:56:28] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 12
+[2026-08-07 22:01:54] [INFO] Recorded song play via CallableStatement for song ID: 80. New Play Count: 1
+[2026-08-07 22:02:10] [INFO] Recorded song play via CallableStatement for song ID: 80. New Play Count: 2
+[2026-08-07 22:10:28] [INFO] Recorded song play via CallableStatement for song ID: 80. New Play Count: 3
+[2026-08-07 22:14:34] [INFO] Recorded song play via CallableStatement for song ID: 76. New Play Count: 13
+[2026-08-07 22:15:01] [INFO] Recorded song play via CallableStatement for song ID: 80. New Play Count: 4
+[2026-08-07 22:17:16] [INFO] Recorded song play via CallableStatement for song ID: 77. New Play Count: 23
+[2026-08-07 22:17:28] [INFO] Recorded song play via CallableStatement for song ID: 80. New Play Count: 5
+[2026-08-07 22:34:20] [INFO] System initialized and connected to database.
+[2026-08-07 22:34:20] [INFO] Music Player Application Started.
+[2026-08-08 09:58:58] [INFO] System initialized and connected to database.
+[2026-08-08 09:58:59] [INFO] Music Player Application Started.
+[2026-08-08 09:59:00] [INFO] System initialized and connected to database.
+[2026-08-08 09:59:00] [INFO] Music Player Application Started.
+[2026-08-08 10:00:17] [INFO] Recorded song play via CallableStatement for song ID: 13. New Play Count: 1
+[2026-08-08 10:05:08] [INFO] Recorded song play via CallableStatement for song ID: 14. New Play Count: 1
+[2026-08-08 10:09:04] [INFO] System initialized and connected to database.
+[2026-08-08 10:09:05] [INFO] Music Player Application Started.
+[2026-08-08 10:11:42] [INFO] Recorded song play via CallableStatement for song ID: 13. New Play Count: 2
+[2026-08-08 10:23:04] [INFO] System initialized and connected to database.
+[2026-08-08 10:23:05] [INFO] Music Player Application Started.
+[2026-08-08 10:47:15] [INFO] System initialized and connected to database.
+[2026-08-08 10:47:16] [INFO] Music Player Application Started.
+[2026-08-08 11:18:02] [INFO] System initialized and connected to database.
+[2026-08-08 11:18:03] [INFO] Music Player Application Started.
+[2026-08-08 11:19:17] [INFO] Recorded song play via CallableStatement for song ID: 13. New Play Count: 3
+[2026-08-08 11:20:36] [INFO] Recorded song play via CallableStatement for song ID: 13. New Play Count: 4
+[2026-08-08 11:20:45] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 1
+[2026-08-08 11:29:36] [INFO] System initialized and connected to database.
+[2026-08-08 11:29:37] [INFO] Music Player Application Started.
+[2026-08-08 11:30:11] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 2
+[2026-08-08 11:30:34] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 3
+[2026-08-08 11:31:31] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 4
+[2026-08-08 11:31:50] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 5
+[2026-08-08 11:32:13] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 6
+[2026-08-08 11:33:28] [INFO] Recorded song play via CallableStatement for song ID: 14. New Play Count: 2
+[2026-08-08 11:33:41] [INFO] Recorded song play via CallableStatement for song ID: 15. New Play Count: 1
+[2026-08-08 11:38:40] [INFO] System initialized and connected to database.
+[2026-08-08 11:38:40] [INFO] Music Player Application Started.
+[2026-08-08 11:39:21] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 7
+[2026-08-08 11:39:54] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 8
+[2026-08-08 11:41:11] [INFO] Recorded song play via CallableStatement for song ID: 15. New Play Count: 2
+[2026-08-08 12:26:54] [INFO] System initialized and connected to database.
+[2026-08-08 12:26:54] [INFO] Music Player Application Started.
+[2026-08-08 12:27:39] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 9
+[2026-08-08 12:28:33] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 10
+[2026-08-08 14:53:03] [INFO] System initialized and connected to database.
+[2026-08-08 14:53:03] [INFO] Music Player Application Started.
+[2026-08-08 14:55:25] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 11
+[2026-08-08 14:57:16] [INFO] System initialized and connected to database.
+[2026-08-08 14:57:17] [INFO] Music Player Application Started.
+[2026-08-09 21:53:14] [ERROR] System startup database check failed: Could not connect to the database. Error: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-08-09 21:53:15] [INFO] Music Player Application Started.
+[2026-08-11 21:21:17] [INFO] System initialized and connected to database.
+[2026-08-11 21:21:18] [INFO] Music Player Application Started.
+[2026-08-11 21:35:38] [INFO] Recorded song play via CallableStatement for song ID: 18. New Play Count: 1
+[2026-08-11 21:36:08] [INFO] Recorded song play via CallableStatement for song ID: 13. New Play Count: 5
+[2026-08-11 23:46:34] [INFO] System initialized and connected to database.
+[2026-08-11 23:46:35] [INFO] Music Player Application Started.
+[2026-08-11 23:46:49] [INFO] Recorded song play via CallableStatement for song ID: 13. New Play Count: 10
+[2026-08-11 23:47:32] [INFO] Recorded song play via CallableStatement for song ID: 13. New Play Count: 11
+[2026-08-12 00:32:31] [INFO] Recorded song play via CallableStatement for song ID: 18. New Play Count: 2
+[2026-08-12 00:33:13] [INFO] Recorded song play via CallableStatement for song ID: 13. New Play Count: 12
+[2026-08-12 00:34:05] [INFO] System initialized and connected to database.
+[2026-08-12 00:34:05] [INFO] Music Player Application Started.
+[2026-08-12 00:42:37] [INFO] Recorded song play via CallableStatement for song ID: 14. New Play Count: 4
+[2026-08-12 00:42:58] [INFO] Recorded song play via CallableStatement for song ID: 14. New Play Count: 5
+[2026-08-12 00:46:32] [INFO] System initialized and connected to database.
+[2026-08-12 00:46:32] [INFO] Music Player Application Started.
+[2026-08-12 10:08:16] [INFO] System initialized and connected to database.
+[2026-08-12 10:08:16] [INFO] Music Player Application Started.
+[2026-08-12 10:21:12] [INFO] System initialized and connected to database.
+[2026-08-12 10:21:13] [INFO] Music Player Application Started.
+[2026-08-12 10:22:00] [INFO] Recorded song play via CallableStatement for song ID: 18. New Play Count: 5
+[2026-08-12 12:14:57] [INFO] System initialized and connected to database.
+[2026-08-12 12:14:58] [INFO] Music Player Application Started.
+[2026-08-12 12:15:21] [INFO] Recorded song play via CallableStatement for song ID: 18. New Play Count: 6
+[2026-08-12 12:20:42] [INFO] Recorded song play via CallableStatement for song ID: 16. New Play Count: 13
+[2026-08-12 12:22:27] [INFO] System initialized and connected to database.
+[2026-08-12 12:22:27] [INFO] Music Player Application Started.
+[2026-08-12 13:02:32] [INFO] System initialized and connected to database.
+[2026-08-12 13:02:32] [INFO] Music Player Application Started.
+[2026-08-12 13:04:20] [INFO] Recorded song play via CallableStatement for song ID: 18. New Play Count: 7
